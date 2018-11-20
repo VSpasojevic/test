@@ -1,0 +1,2 @@
+Napomene:
+1) Koristiti vec otpakovane materijale iz prethodne vezbe (vezba1.tar.bz2)
