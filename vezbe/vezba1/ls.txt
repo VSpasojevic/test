@@ -1,0 +1,7 @@
+tekst/answering-machine.txt
+tekst/diff.txt
+tekst/msreligion.txt
+tekst/sardar1.txt
+tekst/sardar2.txt
+tekst/sardar3.txt
+tekst/unixwars.txt

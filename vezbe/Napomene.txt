@@ -1,0 +1,9 @@
+Napomene:
+1) Pre pokretanja VM mrezni adapter postaviti na tip 'Bridged Adapter':
+   Settings -> Network -> Attached to: -> Bridged Adapter
+2) U naprednim opcijama generisati novu MAC adresu:
+   Settings -> Network -> Advanced -> MAC Address -> Kliknuti desno na dugme na kraju labele.
+3) U sistemskim podesavanjima VM dodeliti minimum 4GB radne memorije i 4 CPU:
+   Settings -> System -> Motherboard -> Podesiti 4096 MB
+   Settings -> System -> Processor -> Podesiti 4 CPU
+   Napomena: Ako host masina ima 16GB radne memorije onda VM mozete dodeliti 8GB (8192 MB).
